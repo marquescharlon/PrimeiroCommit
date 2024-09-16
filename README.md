@@ -9,4 +9,4 @@ git add
 git commit
 ```
 
-Foi utilizado a biblioteca `XYZ`
+<!-- Foi utilizado a biblioteca `XYZ` -->
